@@ -1,9 +1,9 @@
-bqplot=0.12.22
+bqplot==0.12.22
 ipycanvas>=0.9.1
 ipyevents>=2.0.1
 ipyleaflet
 ipympl>=0.8.2
-ipywidgets=7.6
+ipywidgets==7.6
 jupyterlab~=3.4.3
 jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
